@@ -1,4 +1,8 @@
 # virtual-env
 steps to create a virtual environment in python
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!Tip]
+> This is step  by step way of installing it on any windows/ubuntu device.
+> Use windows powershell for creating this.
+
+
+
