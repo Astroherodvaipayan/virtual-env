@@ -1,3 +1,4 @@
 # virtual-env
 steps to create a virtual environment in python
-[!note]
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
